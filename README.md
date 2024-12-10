@@ -1,0 +1,1 @@
+This repository demonstrates a common Python error: `TypeError`. The `calculate_average` function calculates the average of a list of numbers. However, if the list contains non-numeric data, it will raise a `TypeError`. The solution provided shows how to handle such situations gracefully.
